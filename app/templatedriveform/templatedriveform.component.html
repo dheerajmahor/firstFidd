@@ -1,0 +1,16 @@
+<br><br><br>
+<br><br>
+<p>templatedriveform works!</p>
+<form #userForm="ngForm" (ngSubmit)="onSubmit(userForm.value)">
+    name:
+    <input type="text" name="name" ngModel><br><br>
+    address:
+    <input type="text" name="address" ngModel><br><br>
+    city:
+    <input type="text" name="city" ngModel><br><br>
+    phone:
+    <input type="text" name="phone" ngModel><br><br>
+    
+    <button type="submit">submit</button>
+
+</form>

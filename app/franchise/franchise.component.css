@@ -1,0 +1,19 @@
+/* sction 1 */
+img.responsive.franch {
+    width: 100%;
+    height: auto;
+}
+
+/* sction 1 */
+.mybutton {
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    z-index: 9;
+
+}
+.container.connect {
+    position: absolute;
+   
+    
+}

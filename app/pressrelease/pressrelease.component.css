@@ -1,0 +1,39 @@
+/* sction 1 */
+img.responsive.pres {
+    width: 100%;
+    height: auto;
+}
+.press {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 45%;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    font-size: 80px;
+}
+h1.text-center.text-white.prre {
+    font-size: 80px;
+}
+/* sction 1 */
+li {
+    /* display: inline-block;
+    padding: 8px; */
+    width: 265px;
+    display: inline-block;
+    overflow: hidden;
+    outline: 0;
+    height: 340px;
+    -o-object-position: top;
+    object-position: top;
+    vertical-align: top;
+    padding: 0;
+    margin: 1px;
+}
+h4.text-center.eye {
+    padding: 30px;
+    font-family: Raleway,sans-serif;
+}

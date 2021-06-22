@@ -1,0 +1,149 @@
+
+.box{
+   
+    position: relative;
+    font-family: Helvetica;
+}
+.img-fluid{
+    width: 100%!important;
+}
+.img-title{
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 45%;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+h1.ourstory1 {
+    font-size: 80px;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-family: prague;
+}
+h1.ourstory2 {
+    font-size: 30px;
+    font-family: prague;
+
+}
+span.since {
+    color: orange;
+}
+h2.text-center.storu {
+    font-family: prague;
+    padding-top: 41px;
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 3px;
+    font-size: 3rem;
+}
+p.text-justify {
+    font-family: Montserrat,sans-serif;
+    color: #00000091;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-size: 13px;
+}
+img.img-fluid.sincst {
+    width: 100%;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 400px;
+}
+.container-fluid.imggg {
+    margin-bottom: 30px;
+}
+
+
+
+/* visit */
+
+.container-fluid.visit {
+    background-image: url(/assets/img/gamebanner.jpg);
+    width: 100%;
+    padding-right: 0!important;
+    padding-left: 0!important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+    padding-top: 92px;
+    padding-bottom: 75px;
+}
+.container-fluid.visit h1{
+    font-family: prague;
+    color: #fff;
+    font-size: 60px;
+    text-align: center;
+}
+.container-fluid.visit p{
+    color: #fff;
+    line-height: 40px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+button.btn.btn-warning.tex-white.know {
+    border-radius: inherit;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+
+/* THE PROLIFIC RESTAURANTEUR */
+p.resp {
+    font-size: 15px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    color: #000000a3;
+}
+img.profile {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)!important;
+    height: auto;
+}
+.container.prolif {
+    padding: 61px;
+}
+h1.text-center {
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 3px;
+}
+span.resto {
+    color: orange;
+}
+ /* join ***********************/ 
+h2.text-center {
+	padding-top: 30px;
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 3px;
+    font-size: 40px;
+}
+p.para {
+	 line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+        flex: 0 0 58.333333%;
+        text-align: justify;
+        text-justify: inter-word;  
+   
+}
+button.btn.btn-warning.tex-white {
+    color: white;
+    padding: 14px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #fbac29;
+}
+
+img.img-fluid.family {
+  
+    height: 378px;
+}
+.container-fluid.four {
+    padding-bottom: 30px;
+}

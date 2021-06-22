@@ -1,0 +1,39 @@
+/* sction 1 */
+img.responsive.contact {
+    width: 100%;
+    height: auto;
+}
+.contacts {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 45%;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    font-size: 80px;
+}
+h1.text-center.text-white.ctus {
+    font-size: 80px;
+}
+/* sction 1 */
+.col-md-6.contact1 {
+    padding-left: 105px;
+    padding-top: 47px;
+    padding-bottom: 58px;
+}
+h4.contus {
+    font-size: 1.5rem;
+    padding-bottom: 27px;
+   
+    font-weight: 100;
+    line-height: 1.2;
+}
+strong.info {
+    color: #fcb21b;
+}
+.col-md-6.contact2 {
+    padding-top: 46px;
+}
